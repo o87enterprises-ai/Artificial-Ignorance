@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=6O8C_qWtQZk   # Jackass - some clip
+https://www.youtube.com/watch?v=dQw4w9WgXcQ   # Rick Astley (just for testing, has subs)
+https://www.youtube.com/watch?v=KcikPd3R5Do   # Squidbillies clip (example)
+https://youtu.be/Pe7UgygBn9U?si=baq6rRtZvumCc5OV   # Squidbillies - full episode
